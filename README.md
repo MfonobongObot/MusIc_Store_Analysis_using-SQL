@@ -1,1 +1,1 @@
-# Mustic_Store_Analysis-using-SQL
+# Music_Store_Analysis-using-SQL
